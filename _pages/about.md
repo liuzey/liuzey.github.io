@@ -12,4 +12,5 @@ My name is Zeyan Liu. I’m currently a fourth-year CS PhD student at University
 
 News
 ======
-* Nov 8, 2022. Our paper “LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark” is accepted to ACM CCS 2022.
+* Aug 26, 2022. Our paper “LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark” is accepted to ACM CCS 2022.
+* July 26, 2022. Our paper Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” is accepted to ESORICS 2022.
