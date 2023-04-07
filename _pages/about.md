@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zeyan Liu. I’m currently a fourth-year CS PhD student at University of Kansas (KU) advised by Prof. Bo Luo and Prof. Fengjun Li. I received my Bachelor’s degree in Applied Mathematics from Wuhan University in 2019. My research interests include security and privacy in AI and machine learning.
+My name is Zeyan Liu. I’m currently a fourth-year CS PhD student at University of Kansas (KU) advised by Prof. [Bo Luo](http://www.ittc.ku.edu/~bluo/) and Prof. [Fengjun Li](http://www.ittc.ku.edu/~fli/index.html). I received my Bachelor’s degree in Applied Mathematics from Wuhan University in 2019. 
+
+My research interests include security and privacy in AI and machine learning.
 
 News
 ======

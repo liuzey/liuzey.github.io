@@ -3,18 +3,9 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eecs447
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Spring 2021 & Spring 2022 & Spring 2023"
+# date: 2015-01-01
+location: "University of Kansas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Course Description](https://catalog.ku.edu/search/?P=EECS%20447)
