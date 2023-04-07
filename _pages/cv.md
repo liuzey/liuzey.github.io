@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The full version of my cv can be found [here](http://liuzey.github.io/files/cv.pdf).
+
 Education
 ======
 * Ph.D in Computer Science, University of Kansas, 2024 (expected)
