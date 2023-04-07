@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-The full version of my cv can be found [here](http://liuzey.github.io/files/cv.pdf).
+A full version of my CV can be found [here](http://liuzey.github.io/files/cv.pdf).
 
 Education
 ======
-* Ph.D in Computer Science, University of Kansas, 2024 (expected)
+* Ph.D. in Computer Science, University of Kansas, 2024 (expected)
 * B.S. in Applied Mathematics, Wuhan University, 2019
 
 Work experience
 ======
-* Fall 2019 - Summer 2022: Research Assistant
 * Spring 2021 - Spring 2023: Teaching Assistant
-
+* Fall 2019 - Summer 2022: Research Assistant
   
 Service
 ======
