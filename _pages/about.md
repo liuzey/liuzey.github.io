@@ -14,6 +14,6 @@ My research interests include security and privacy in AI and machine learning.
 
 News
 ======
-* I will join Google as a summer intern working on virtualization security.
-* Our paper “LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark” is accepted to ACM CCS 2022.
-* Our paper "Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” is accepted to ESORICS 2022.
+* April 8, 2023. I will join Visa as a summer intern working on cybersecurity.
+* Aug 26, 2022. Our paper “LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark” is accepted to ACM CCS 2022.
+* July 26, 2022. Our paper "Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” is accepted to ESORICS 2022.
