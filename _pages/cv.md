@@ -23,5 +23,5 @@ Work experience
   
 Service
 ======
-* *External Reviewer*: ICASSP 2023, ICIP 2023, ICASSP 2022, ICIP 2022, STM 2022
+* *Conference Reviewer*: ICASSP 2023, ICIP 2023, ICASSP 2022, ICIP 2022, STM 2022
 * *Organizing Committee*: EAI AC3 2022
