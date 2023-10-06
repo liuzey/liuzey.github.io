@@ -23,7 +23,6 @@ Work experience
   
 Service
 ======
-* *Conference Reviewer*: WWW 2024, ICASSP 2024, ISSRE 2024 (Artifact), ICASSP 2023, ICIP 2023, ICASSP 2022, ICIP 2022
+* *Conference Reviewer*: WWW 2024, ICASSP 2024, ISSRE 2024 (Artifact), ICASSP 2023, ICIP 2023, ICASSP 2022, ICIP 2022, STM 2022
 * *Journal Reviewer*: TIP
-* *External Reviewer*: STM 2022
 * *Organizing Committee*: EAI AC3 2022
