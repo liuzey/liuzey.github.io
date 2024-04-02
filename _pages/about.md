@@ -10,7 +10,7 @@ redirect_from:
 
 I’m currently a final-year CS Ph.D. student at the University of Kansas, advised by Prof. [Bo Luo](http://www.ittc.ku.edu/~bluo/) and Prof. [Fengjun Li](http://www.ittc.ku.edu/~fli/index.html). I received my Bachelor’s degree in Math from Wuhan University in 2019. My research interests are within the broad areas of security and privacy issues in AI and ML, including adversarial and privacy-preserving machine learning, trustworthy and responsible AI, AI for security, and so on.
 
-$${\color{red} I'm to join Boise State University as a Tenure-track Assistant Professor in Fall 2024. Please feel free to contact me if you want to work with me.}$$
+*I'm to join Boise State University as a Tenure-track Assistant Professor in Fall 2024. Please feel free to contact me if you want to work with me.*
 
 News
 ======
