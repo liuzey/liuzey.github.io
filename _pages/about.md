@@ -12,7 +12,6 @@ I’m currently a final-year CS Ph.D. student at the University of Kansas, advis
 
 - I am to join Boise State University as a Tenure-Track Assistant Professor in Fall 2024. I am looking for self-motivated students to join my group. Please contact me if you are interested! -
 <p>
-Quack quack
 <text color=red>ERROR</text>
 </p>
 
