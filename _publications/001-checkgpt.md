@@ -1,7 +1,7 @@
 ---
 title: "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing"
 collection: publications
-permalink: /publication/checkgpt2
+permalink: /publication/checkgpt
 date: 2024-04-03
 venue: 'CCS 2024'
 paperurl:
