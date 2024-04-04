@@ -16,6 +16,10 @@ I am to join Boise State University as a Tenure-Track Assistant Professor in Fal
 
 News
 ======
+* April 3, 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing
+" gets accepted to ACM CCS 2024.
+* March 19, 2024. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption
+" gets accepted to PETS 2024. Congrats to Liangqin!
 * Sep 14, 2023. Our paper "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors” gets accepted to NDSS 2024.
 * June 7, 2023. Our preprint "Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT" is [available](https://arxiv.org/abs/2306.05524). [[Github](https://github.com/liuzey/CheckGPT)][[Huggingface](https://huggingface.co/julianzy/CheckGPT)]
 * April 8, 2023. I will join Visa Inc. this summer as a PhD Research Scientist Intern working on machine learning and security.
