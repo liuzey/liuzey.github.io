@@ -26,5 +26,5 @@ Service
 ======
 * *Conference Reviewer*: WWW 2024, ICASSP 2022-2024, ICIP 2022-2024, STM 2022
 * *Journal Reviewer*: TIP
-* *Artifact Reviewer*: CCS 2024, WOOT 2024, DSN 2024, ISSRE 2023
+* *Artifact Reviewer*: CCS 2024, WOOT 2024, DSN 2024, ECOOP 2024, ISSRE 2023
 * *Organizing Committee*: EAI AC3 2022
