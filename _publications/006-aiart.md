@@ -7,4 +7,4 @@ venue: 'PREPRINT'
 paperurl:
 citation:
 ---
-[*Under Review*] Yuying Li*, **Zeyan Liu**, Junyi Zhao*, Liangqin Ren*, Fengjun Li, Jiebo Luo, Bo Luo.
+[*Under Review*] Yuying Li[*], **Zeyan Liu**, Junyi Zhao[*], Liangqin Ren[*], Fengjun Li, Jiebo Luo, Bo Luo.
