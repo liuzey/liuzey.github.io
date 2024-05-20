@@ -7,4 +7,4 @@ venue: 'CCS 2024'
 paperurl:
 citation:
 ---
-[*CCS 2024*] **Zeyan Liu**, Zijun Yao, Fengjun Li, Bo Luo.
+[*CCS 2024 A*] **Zeyan Liu**, Zijun Yao, Fengjun Li, Bo Luo.
