@@ -16,10 +16,11 @@ I’m currently a final-year CS Ph.D. student at the University of Kansas, advis
 
 News
 ======
-* April 3, 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" gets accepted to ACM CCS 2024.
-* March 19, 2024. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption" gets accepted to PETS 2024. Congrats to Liangqin!
-* Sep 14, 2023. Our paper "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors” gets accepted to NDSS 2024.
-* June 7, 2023. Our preprint "Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT" is [available](https://arxiv.org/abs/2306.05524). [[Github](https://github.com/liuzey/CheckGPT)][[Huggingface](https://huggingface.co/julianzy/CheckGPT)]
-* April 8, 2023. I will join Visa Inc. this summer as a PhD Research Scientist Intern working on machine learning and security.
-* Aug 26, 2022. Our paper "LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark" gets accepted to ACM CCS 2022.
-* July 26, 2022. Our paper "Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” gets accepted to ESORICS 2022.
+* May 2024. Our paper "The Invisible Polyjuice Potion: an Effective Physical Adversarial Attack against Face Recognition" gets accepted to ACM CCS 2024. Congrats to Ye!
+* Apr 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" gets accepted to ACM CCS 2024.
+* Mar 2024. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption" gets accepted to PETS 2024. Congrats to Liangqin!
+* Sep 2023. Our paper "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors” gets accepted to NDSS 2024. Congrats to Aozhuo!
+* June 2023. Our preprint "Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT" is [available](https://arxiv.org/abs/2306.05524). [[Github](https://github.com/liuzey/CheckGPT)][[Huggingface](https://huggingface.co/julianzy/CheckGPT)]
+* Apr 2023. I will join Visa Inc. this summer as a PhD Research Scientist Intern working on machine learning and security.
+* Aug 2022. Our paper "LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark" gets accepted to ACM CCS 2022.
+* July 2022. Our paper "Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” gets accepted to ESORICS 2022.
