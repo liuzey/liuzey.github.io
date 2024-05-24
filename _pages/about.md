@@ -17,7 +17,7 @@ I’m currently a final-year CS Ph.D. student at the University of Kansas, advis
 News
 ======
 * May 2024. Our paper "The Invisible Polyjuice Potion: an Effective Physical Adversarial Attack against Face Recognition" gets accepted to ACM CCS 2024. Congrats to Ye!
-* Apr 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" gets accepted to ACM CCS 2024.
+* Apr 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" gets accepted to ACM CCS 2024. \[May 2024 Update: Our artifact is granted Available, Evaluated, and Results Reproduced Badges.\]
 * Mar 2024. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption" gets accepted to PETS 2024. Congrats to Liangqin!
 * Sep 2023. Our paper "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors” gets accepted to NDSS 2024. Congrats to Aozhuo!
 * June 2023. Our preprint "Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT" is [available](https://arxiv.org/abs/2306.05524). [[Github](https://github.com/liuzey/CheckGPT)][[Huggingface](https://huggingface.co/julianzy/CheckGPT)]
