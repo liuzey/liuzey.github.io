@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* *Research Intern*, Visa Inc. Summer 2023
+* *Research Intern*, Visa Inc., Summer 2023
 * *Teaching Assistant*, University of Kansas, Spring 2021 - Spring 2023
 * *Research Assistant*, University of Kansas, Fall 2019 - Spring 2024
   
