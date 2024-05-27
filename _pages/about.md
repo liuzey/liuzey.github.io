@@ -16,7 +16,7 @@ I’m currently a final-year CS Ph.D. student at the University of Kansas, advis
 
 News
 ======
-* May 2024. Our CCS [artifact](https://10.5281/zenodo.11046882) of "On the Detectability of ChatGPT Content" is granted Artifacts Available, Artifacts Evaluated, and Results Reproduced Badges. Thanks to our Reviewers!
+* May 2024. Our CCS [artifact](https://zenodo.org/doi/10.5281/zenodo.11046882) of "On the Detectability of ChatGPT Content" is granted Artifacts Available, Artifacts Evaluated, and Results Reproduced Badges. Thanks to our Reviewers!
 * May 2024. Our paper "The Invisible Polyjuice Potion: an Effective Physical Adversarial Attack against Face Recognition" gets accepted to ACM CCS 2024. Congrats to Ye!
 * Apr 2024. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" gets accepted to ACM CCS 2024. 
 * Mar 2024. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption" gets accepted to PETS 2024. Congrats to Liangqin!
