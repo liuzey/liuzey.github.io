@@ -14,7 +14,7 @@ A full version of my CV can be found [here](http://liuzey.github.io/files/cv.pdf
 Education
 ======
 * *Ph.D.* in Computer Science, University of Kansas, 2019 - 2024 (expected)
-* *B.S.* in Mathematics and Applied Mathematics, Wuhan University, 2015 - 2019
+* *B.S.* in Mathematics & Applied Mathematics, Wuhan University, 2015 - 2019
 
 Work experience
 ======
