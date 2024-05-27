@@ -22,6 +22,6 @@ News
 * *Mar 2024*. Our paper "PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption" has been accepted to PETS 2024. Congrats to Liangqin!
 * *Sep 2023*. Our paper "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors” has been accepted to NDSS 2024. Congrats to Aozhuo!
 * *June 2023*. Our preprint "Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT" is [available](https://arxiv.org/abs/2306.05524). [[Github](https://github.com/liuzey/CheckGPT)][[Huggingface](https://huggingface.co/julianzy/CheckGPT)]
-* *Apr 2023*. I will join Visa Inc. this summer as a PhD Research Scientist Intern working on machine learning and security.
+* *Apr 2023*. I will join Visa Inc. this summer as a PhD Research Scientist Intern working on AI and Cybersecurity.
 * *Aug 2022*. Our paper "LoneNeuron: a Highly-effective Feature-domain Neural Trojan using Invisible and Polymorphic Watermark" has been accepted to ACM CCS 2022.
 * *July 2022*. Our paper "Hide and Seek: on the Stealthiness of Attacks against Deep Learning Systems” has been accepted to ESORICS 2022.
