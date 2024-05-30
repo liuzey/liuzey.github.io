@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-More details can be found here at [Google Scholar](https://scholar.google.com/citations?user=sZTAgrwAAAAJ). (<ins>students mentored by me.</ins>)
+More details can be found here at [Google Scholar](https://scholar.google.com/citations?user=sZTAgrwAAAAJ). (<ins>Students</ins> mentored by me.)
 
 {% include base_path %}
 
