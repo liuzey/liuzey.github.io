@@ -7,4 +7,4 @@ venue: 'PREPRINT'
 paperurl:
 citation:
 ---
-[*Preprint*] <ins>Yuying Li<\ins>, **Zeyan Liu**, <ins>Junyi Zhao<\ins>, <ins>Liangqin Ren<\ins>, Fengjun Li, Jiebo Luo, Bo Luo.
+[*Preprint*] <ins>Yuying Li</ins>, **Zeyan Liu**, <ins>Junyi Zhao</ins>, <ins>Liangqin Ren</ins>, Fengjun Li, Jiebo Luo, Bo Luo.
