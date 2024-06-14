@@ -16,6 +16,7 @@ I’m currently a final-year CS Ph.D. student at the University of Kansas, advis
 
 News
 ======
+* *Jun 2024*. Our paper "The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking" has been accepted to ESORICS 2024. Congrats to Yuying!
 * *May 2024*. Our CCS artifact ([Zenodo](https://zenodo.org/doi/10.5281/zenodo.11046882)) of "On the Detectability of ChatGPT Content" is granted Artifacts Available, Artifacts Evaluated, and Results Reproduced Badges. Thanks to our Reviewers!
 * *May 2024*. Our paper "The Invisible Polyjuice Potion: an Effective Physical Adversarial Attack against Face Recognition" has been accepted to ACM CCS 2024. Congrats to Ye!
 * *Apr 2024*. Our paper "On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing" has been accepted to ACM CCS 2024. 
