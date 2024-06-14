@@ -3,7 +3,7 @@ title: "The Adversarial AI-Art: Understanding, Generation, Detection, and Benchm
 collection: publications
 permalink: /publication/aiart
 date: 2024-06-14
-venue: 'PREPRINT'
+venue: 'ESORICS'
 paperurl:
 citation:
 ---
