@@ -2,7 +2,7 @@
 title: "The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking"
 collection: publications
 permalink: /publication/aiart
-date: 2024-04-20
+date: 2024-06-14
 venue: 'PREPRINT'
 paperurl:
 citation:
