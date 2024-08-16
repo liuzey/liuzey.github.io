@@ -16,7 +16,7 @@ Education
 * *Ph.D.* in Computer Science, University of Kansas, 2019 - 2024
 * *B.S.* in Mathematics & Applied Mathematics, Wuhan University, 2015 - 2019
 
-Work experience
+Experience
 ======
 * *Research Intern*, Visa Inc., Summer 2023
   
