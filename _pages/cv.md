@@ -31,4 +31,5 @@ Service
   - 2024: MICCAI (FAIMI), ICML (LLMCog), ECCV (WiCV, ROAM), NeurIPS (WiML, BehavioralML, MATH-AI, Pluralistic-Alignment)
   - 2022: STM@ESORICS
 * *Journal Reviewer*: TIP, TIOT
-* *Organizing Committee*: EAI AC3 2022
+* *Organizing Committee*:
+  - 2022: EAI AC3
