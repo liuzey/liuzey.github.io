@@ -22,6 +22,7 @@ Experience
   
 Service
 ======
+* *Journal Reviewer*: TIP, TIOT
 * *Conference PC/Reviewer/AEC*:
   - 2025: ICLR, WWW
   - 2024: WWW, CSCW, NeurIPS, ICASSP, ICIP, CCS, WOOT, DSN, ATC, OSDI, SOSP, ECOOP, ISSRE, SIGMOD
@@ -30,6 +31,5 @@ Service
 * *Workshop (Paper) Reviewer*:
   - 2024: MICCAI (FAIMI), ICML (LLMCog), ECCV (WiCV, ROAM), NeurIPS (WiML, BehavioralML, MATH-AI, Pluralistic-Alignment)
   - 2022: STM@ESORICS
-* *Journal Reviewer*: TIP, TIOT
 * *Organizing Committee*:
   - 2022: EAI AC3
