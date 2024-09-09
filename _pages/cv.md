@@ -29,7 +29,7 @@ Service
   - 2023: ICASSP, ICIP, ISSRE
   - 2022: ICASSP, ICIP
 * *Workshop (Paper) Reviewer*:
-  - 2024: MICCAI (FAIMI), ICML (LLMCog), ECCV (WiCV, ROAM), NeurIPS (WiML, BehavioralML, MATH-AI, Pluralistic-Alignment, NeuroAI， MINT), EMNLP (MRL)
+  - 2024: MICCAI (FAIMI), ICML (LLMCog), ECCV (WiCV, ROAM), NeurIPS (WiML, BehavioralML, MATH-AI, Pluralistic-Alignment, NeuroAI, MINT), EMNLP (MRL)
   - 2022: ESORICS (STM)
 * *Organizing Committee*:
   - 2022: EAI AC3
