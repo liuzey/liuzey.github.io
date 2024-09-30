@@ -24,8 +24,8 @@ Service
 ======
 * *Journal Reviewer*: TIP, TIOT
 * *Conference PC/Reviewer/AEC*:
-  - 2025: ICLR, WWW, AISTATS, FC, MSR
-  - 2024: WWW, CSCW, NeurIPS, ICASSP, ICIP, CCS, WOOT, DSN, ATC, OSDI, SOSP, ECOOP, ISSRE, SIGMOD
+  - 2025: WWW, ICLR, AISTATS, FC, MSR
+  - 2024: WWW, CSCW, NeurIPS, CCS, WOOT, DSN, ATC, OSDI, SOSP, ECOOP, SIGMOD, ICASSP, ICIP, ISSRE
   - 2023: ICASSP, ICIP, ISSRE
   - 2022: ICASSP, ICIP
 * *Workshop (Paper) Reviewer*:
