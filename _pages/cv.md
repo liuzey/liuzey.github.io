@@ -23,7 +23,7 @@ Experience
 Service
 ======
 * *Journal Reviewer*: TIP, TIOT
-* *Conference PC/(Formal) Reviewer/AEC*:
+* *Conference PC/Invited Reviewer/AEC*:
   - 2025: WWW, KDD, ICLR, AISTATS, FC, MSR
   - 2024: WWW, CSCW, NeurIPS, CCS, WOOT, DSN, ATC, OSDI, SOSP, SIGMOD, ICASSP, ICIP, ISSRE, ECOOP
   - 2023: ICASSP, ICIP, ISSRE
