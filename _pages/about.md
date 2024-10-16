@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a final-year CS Ph.D. student at the University of Kansas, advised by Prof. [Bo Luo](http://www.ittc.ku.edu/~bluo/) and Prof. [Fengjun Li](http://www.ittc.ku.edu/~fli/index.html). I received my Bachelor’s degree in Math from Wuhan University in 2019. My research interests are within the broad areas of Cybersecurity and AI, including adversarial and privacy-preserving machine learning, AI SAFE-T (Safety, Accountability, Fairness, Explainability, and Transparency), AI for Cybersecurity, and so on.
+Hi! I’m a Tenure-track Assistant Professor at the University of Louisville. I received my Ph.D. in Computer Science from the University of Kansas, advised by Dr. [Bo Luo](http://www.ittc.ku.edu/~bluo/) and Dr. [Fengjun Li](http://www.ittc.ku.edu/~fli/index.html) and my Bachelor’s degree in Math from Wuhan University in 2019. My research interests are within the broad areas of Cybersecurity and AI, including adversarial and privacy-preserving machine learning, AI SAFE-T (Safety, Accountability, Fairness, Explainability, and Transparency), AI for Cybersecurity, and so on.
 
 <p style="color: red;">
-<!--I am to join Boise State University as a Tenure-Track Assistant Professor in Fall 2024. I am looking for self-motivated students to join my group. Please contact me at {julianzy2024 AT gmail DOT com} if you are interested! -->
+<I am looking for self-motivated students to join my group. Please contact me at {julianzy2024 AT gmail DOT com} if you are interested! -->
 </p>
 
 News
