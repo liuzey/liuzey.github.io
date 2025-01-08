@@ -22,7 +22,7 @@ Experience
   
 Service
 ======
-* *Journal Reviewer*: TIP, TETC, TIOT
+* *Journal Reviewer*: IEEE Transactions on Image Processing, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Internet of Things, Artificial Intelligence Review
 * *Conference PC/Invited Reviewer/AEC*:
   - 2025: WWW, KDD, ICLR, AISTATS, FC, MSR, USENIX SEC, IJCNN (Area Chair)
   - 2024: WWW, CSCW, NeurIPS, CCS, WOOT, DSN, ATC, OSDI, SOSP, SIGMOD, ICASSP, ICIP, ISSRE, ECOOP
