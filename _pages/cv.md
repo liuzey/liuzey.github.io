@@ -29,6 +29,7 @@ Service
   - 2023: ICASSP, ICIP, ISSRE
   - 2022: ICASSP, ICIP
 * *Workshop (Paper) Reviewer*:
+  - 2025: CVPR (WiCV)
   - 2024: MICCAI (FAIMI), ICML (LLMCog), ECCV (WiCV, ROAM), NeurIPS (WiML, SafeGenAi, BehavioralML, MATH-AI, Pluralistic-Alignment, NeuroAI, MINT, LXAI), EMNLP (MRL)
   - 2022: ESORICS (STM)
 * *Organizing Committee*:
