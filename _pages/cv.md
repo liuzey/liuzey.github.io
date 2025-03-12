@@ -22,7 +22,7 @@ Experience
   
 Service
 ======
-* *Journal Reviewer*: IEEE Transactions on Image Processing, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Internet of Things, Springer Artificial Intelligence Review, Springer Data Science and Engineering
+* *Journal Reviewer*: IEEE Transactions on Image Processing, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Internet of Things, Springer Artificial Intelligence Review, Springer Data Science and Engineering, Frontiers in Research Metrics & Analytics
 * *Conference PC/Invited Reviewer/AEC*:
   - 2025: ICIP, WWW, KDD, ICLR, AISTATS, FC, MSR, USENIX SEC, IJCNN (Area Chair)
   - 2024: ICASSP, ICIP, WWW, CSCW, NeurIPS, CCS, WOOT, DSN, ATC, OSDI, SOSP, SIGMOD, ISSRE, ECOOP
