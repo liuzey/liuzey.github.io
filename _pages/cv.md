@@ -24,7 +24,7 @@ Service
 ======
 * *Journal Reviewer*: TIP, TDSC, TETC, TIOT, Springer Artificial Intelligence Review, DSEJ, FRMA
 * *Conference PC/Invited Reviewer/AEC*:
-  - 2025: ICIP, WWW, KDD, ICLR, AISTATS, FC, MSR, USENIX SEC, IJCNN (Area Chair)
+  - 2025: ICIP, WWW, KDD, ICLR, AISTATS, FC, MSR, USENIX SEC, IJCNN (AC)
   - 2024: ICASSP, ICIP, WWW, CSCW, NeurIPS, CCS, WOOT, DSN, ATC, OSDI, SOSP, SIGMOD, ISSRE, ECOOP
   - 2023: ICASSP, ICIP, ISSRE
   - 2022: ICASSP, ICIP
